@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Middleware;
-
+use Illuminate\Validation\Validator;
 use Closure;
 use Illuminate\Http\Request;
 
